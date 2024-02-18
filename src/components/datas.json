@@ -1,0 +1,39 @@
+
+   [
+   {
+        "product":"me wared",
+        "price": 7,
+        "fournisseur":"chokri",
+        "location":"beja"
+    },
+    {
+        "product":"zit kharwa3",
+        "price": 7,
+        "fournisseur":"khawla",
+        "location":"beja"
+    },
+    {
+        "product":"3aterchia",
+        "price": 7,
+        "fournisseur":"latifa",
+        "location":"nefza"
+    },
+    {
+        "product":"malsou9a",
+        "price": 1,
+        "fournisseur":"latifa",
+        "location":"mina"
+    },
+    {
+        "product":"bsisa 3arbi",
+        "price": 5,
+        "fournisseur":"latifa",
+        "location":"mina"
+    },
+    {
+        "product":"tabel",
+        "price": 10,
+        "fournisseur":"latifa",
+        "location":"mina"
+    }
+]
